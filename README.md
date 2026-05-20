@@ -1,4 +1,4 @@
-# Olá, me chamo Benito Rosa! 👋
+# Olá, me chamo Benito! 👋
 ## Bem-vindo ao meu perfil do GitHub
 
 Atualmente sou aluno do Instituto Federal Sul-rio-grandense (**IFSUL**), onde faço o curso técnico integrado em **Programação para Internet**.
