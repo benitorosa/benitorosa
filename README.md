@@ -1,5 +1,3 @@
-<div align="center">
-
 # Olá, me chamo Benito! 👋
 ## Bem-vindo ao meu perfil do GitHub
 
@@ -22,5 +20,3 @@ Neste momento, estou focando no aprendizado das seguintes linguagens e ferrament
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benito-dos-passos-rosa-a325183a4/)
-
-</div>
