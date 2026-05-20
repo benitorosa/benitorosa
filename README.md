@@ -1,23 +1,20 @@
-# Olá, me chamo Benito Rosa!
-## Bem vindo ao meu perfil GitHub 
+# Olá, me chamo Benito Rosa! 👋
+## Bem-vindo ao meu perfil do GitHub
 
-Atualmente sou aluno do instituto federal sul rio grandense (IFSUL), e tenho um curso integrado de Programação para Internet;
-Neste momento estou aprendendo algumas lingaguens e habilidades, entre elas, HTML, CSS, JS,  Java e GIT
-Sou natural de Porto Alegre (RS) e atualmente resido em Gravataí (RS)
+Atualmente sou aluno do Instituto Federal Sul-rio-grandense (**IFSUL**), onde faço o curso técnico integrado em **Programação para Internet**.
 
-# estou aprendendo
+📍 Natural de Porto Alegre (RS) e atualmente residindo em Gravataí (RS).
 
+---
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+### 🚀 Tecnologias e Habilidades
 
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+Neste momento, estou focando no aprendizado das seguintes linguagens e ferramentas:
 
-
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-          
+<div display="inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+</div>
